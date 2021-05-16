@@ -1,3 +1,4 @@
 print ("bb");
 принт;
 print ("sobaka");
+print ("sasay");
